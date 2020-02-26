@@ -1,0 +1,17 @@
+{
+  "name": "chit-chat",
+  "version": "1.0.0",
+  "description": "simple chat app using node js",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "author": "sagar gurung",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
